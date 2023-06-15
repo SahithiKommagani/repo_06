@@ -26,8 +26,8 @@ public class Circle  extends Shape{
        @Override
 	public void set() {
 		// TODO Auto-generated method stub
-		radius=9;
-		System.out.println("value updated = " +radius);
+		
+		System.out.println("entered radius = " +radius);
 	}
 @Override
   public void print() {
